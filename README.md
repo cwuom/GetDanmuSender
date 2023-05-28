@@ -843,7 +843,7 @@ mid_hash破解效率随着原mid的长度或大小的增大而减小。
 # 注意事项👀
 ### 使用代理
 #### 若您在打开代理的环境下使用本程序，您需要注意以下几点（这里用Clash for Windows举例）
-- 关闭**系统代理模式(System Proxy)**，这可能会导致程序无法访问API
+- 尝试关闭**系统代理模式(System Proxy)**，开启此选项可能会导致程序无法访问对应的API
 - 若您关闭了系统代理模式(System Proxy)无法正常上网，请尝试**点亮小地球(Service Mode)**
 - 若还是无法正常联网，请通过[Issues](https://github.com/cwuom/GetDanmuSender/issues)来阐述具体情况（除程序外的软件、网站访问情况或是代理规则等）
 
