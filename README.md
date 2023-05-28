@@ -31,10 +31,10 @@ cd GetDanmuSender
 pip install -r requirements.txt
 python main.py
 ```
-若您的计算机无法使用git，您可以[直接下载](https://github.com/cwuom/GetDanmuSender/archive/refs/heads/main.zip)此项目的打包版本来部署它
+若您的计算机无法使用git，您可以[直接下载](https://github.com/cwuom/GetDanmuSender/archive/refs/heads/main.zip)源码来部署它
 
 ### 直接部署（无需环境）
-前往[releases](https://github.com/cwuom/GetDanmuSender/releases)下载最新版。
+前往[releases](https://github.com/cwuom/GetDanmuSender/releases)下载最新的打包版本。
 
 # 使用方式🪄
 
