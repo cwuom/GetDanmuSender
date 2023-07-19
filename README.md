@@ -5,7 +5,6 @@
 <p align="center">
     <h3>一个基于Python3.7开发的bilibili弹幕发送者查询工具</h3>
     <p align="center">
-      <a href="https://t.me/tkdifferent">
         <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SQ2EDC77_dObl8QOdmwMVxw39H8Ur1Ax&authKey=OD1jf7NyaNkZu0HpXuhjnFPTA9hWdxcmiU72rteVclsIWSziS1bjThC8OJaK36sV&noverify=0&group_code=893018099">
 <img alt="加入QQ交流群" src="https://img.shields.io/badge/QQGroup-893018099-blue" />
 </a>
